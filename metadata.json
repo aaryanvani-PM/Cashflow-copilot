@@ -1,0 +1,6 @@
+{
+  "name": "Cashflow Copilot",
+  "description": "Actionable transaction intelligence, leak prevention, and Google PAIR-compliant human-in-the-loop financial workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
